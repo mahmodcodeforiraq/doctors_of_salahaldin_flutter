@@ -22,7 +22,7 @@ class StateRegesterPage extends State<RegesterPage> {
           shape: RoundedRectangleBorder(
               borderRadius:
                   new BorderRadius.only(bottomRight: Radius.circular(35))),
-          title: new Text("دليل اطباء صلاح الدين"),
+          title: new Text("تسجيل حساب جديد"),
           centerTitle: true,
           backgroundColor: Color(0xff6A4BC3),
         ),
