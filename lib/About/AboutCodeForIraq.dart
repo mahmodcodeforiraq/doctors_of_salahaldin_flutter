@@ -15,7 +15,7 @@ class StateAboutCodeForIraq extends State<AboutCodeForIraq> {
           shape: RoundedRectangleBorder(
               borderRadius:
                   new BorderRadius.only(bottomRight: Radius.circular(35))),
-          title: new Text("دليل اطباء صلاح الدين"),
+          title: new Text("عن المبادرة"),
           centerTitle: true,
           backgroundColor: Color(0xff6A4BC3),
           actions: <Widget>[],
